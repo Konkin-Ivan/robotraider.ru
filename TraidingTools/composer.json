@@ -1,0 +1,28 @@
+{
+  "name": "konkin/KonkinMacd",
+  "description": "MACD pure function",
+  "license": "MIT",
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  },
+  "authors": [
+    {
+      "name": "Konkin",
+      "email": "konkin.ivan@yandex.ru"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/Konkin-Ivan/KonkinMacd"
+    }
+  ],
+  "require": {
+    "konkin/KonkinMacd": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Konkin\\": "src/"
+    }
+  }
+}
