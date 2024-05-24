@@ -1,5 +1,5 @@
 {
-  "name": "konkin/KonkinMacd",
+  "name": "konkin/traiding_tools",
   "description": "MACD pure function",
   "license": "MIT",
   "require-dev": {
@@ -14,11 +14,11 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/Konkin-Ivan/KonkinMacd"
+      "url": "https://github.com/Konkin-Ivan/robotraider.ru/tree/main/TraidingTools"
     }
   ],
   "require": {
-    "konkin/KonkinMacd": "*"
+    "konkin/traiding_tools": "*"
   },
   "autoload": {
     "psr-4": {
